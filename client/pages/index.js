@@ -43,7 +43,7 @@ export default function Home(props) {
 			<div className={styles.landingHeroTextA}>{process.env.creatorName}</div>
 			<Link href="/nft">
 				<a className={styles.landingHeroTextB}>
-					NFT<br />CATALOG
+					NFT<br />CATALOg
 				</a>
 			</Link>
 			<div className={styles.landingSpec}>
